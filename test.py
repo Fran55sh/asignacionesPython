@@ -219,12 +219,19 @@ with open('BRIA_MAETEL.TXT', 'r') as maetel_file:
 # Convertir maetel_data en un DataFrame
 dfMaetel = pd.DataFrame(maetel_data, columns=['DNI', 'Tipo', 'Tel'])
 dfMaetel['DniO'] = df_intermedio['DNIO']
+print(df_intermedio.head())
+# Create a custom sorting function
+def custom_sort(tel_list):
+    if 'Celular Principal' in tel_list:
+        tel_list.remove('Celular Principal')
+        tel_list.insert(0, 'Celular Principal')
+    return '-'.join(tel_list)
 
+# Group by 'DNI' and aggregate 'Tel' values using the custom sorting function
+grouped = dfMaetel.groupby('DNI')['Tel'].agg(list).reset_index()
+grouped['Tel'] = grouped['Tel'].apply(custom_sort)
 
-
-# Agrupar por la columna 'Col2' y combinar los valores correspondientes de la columna 'Col4'
-grouped = dfMaetel.groupby('DNI')['Tel'].apply('-'.join).reset_index()
-
+# Print the updated 'grouped' DataFrame
 print(grouped.head())
 
 # Dividir la columna combinada 'Col4' en 'Cel 1' y 'Cel 2'
@@ -242,7 +249,7 @@ df_intermedio['Cel 1'] = df_intermedio['DNIO'].map(grouped.set_index('Dni')['Cel
 df_intermedio['Cel 2'] = df_intermedio['DNIO'].map(grouped.set_index('Dni')['Cel 2'])
 
 print("Archivo MAETEL.txt procesado")
-
+print(df_intermedio.head())
 # Esto agrega las columnas 'Cel 1' y 'Cel 2' al DataFrame df_intermedio cuando coinciden los valores de DniO y Dni
 
 fecha_actual = date.today()
