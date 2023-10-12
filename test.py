@@ -1,12 +1,18 @@
 import pandas as pd
+import os
+import openpyxl
 import datetime
 import locale
 from datetime import date
 import tkinter as tk
 from tkinter import messagebox
+from tqdm import tqdm
+
+
 locale.setlocale(locale.LC_TIME, 'es_ES.UTF-8')
 # Leer el archivo de texto con los datos
 
+print("leyendo Archivos...")
 with open('Pases.txt', 'r') as archivo:
     # Leer todas las líneas del archivo y almacenarlas en una lista
     lineas = archivo.readlines()
@@ -106,7 +112,6 @@ dfPases = pd.DataFrame(datos_filas, columns=nombres_columnas)
 
 nombre_de_columna = 'Nro Legajo'  # Reemplaza 'nombre_de_columna' con el nombre real de la columna que deseas contar
 cantidad_de_filas = dfPases[nombre_de_columna].count()
-print("Archivo Pases.txt procesado")
 
 
 # Tu código para crear el DataFrame dfPases
@@ -135,7 +140,8 @@ df_intermedio = pd.DataFrame({
     'Calle': dfMaecli['Calle'],
     'Numero': dfMaecli['Numero'],
     'Piso/Depto': dfMaecli['Piso/Depto'],
-    'CP': dfMaecli['CP']
+    'CP': dfMaecli['CP'],
+    'Nro Legajo': dfPases['Nro Legajo']
 })
 
 
@@ -186,7 +192,7 @@ def buscar_datos(row, columna):
 # Columnas a buscar y crear en df_intermedio
 columnas_a_actualizar = ['Calle', 'Numero', 'Piso/Depto', 'CP']
 
-for columna in columnas_a_actualizar:
+for columna in tqdm(columnas_a_actualizar, desc="OBTENIENDO DATOS"):
     df_intermedio[f'{columna}O'] = df_intermedio.apply(buscar_datos, axis=1, args=(columna,))    
 
 # Aplicar la función de búsqueda a cada fila de df_intermedio y guardar los resultados en una nueva columna
@@ -201,7 +207,6 @@ dfPases['Piso/Depto'] = df_intermedio['Piso/DeptoO']
 dfPases['Cp'] = df_intermedio['CPO']
 dfPases['DNI'] = df_intermedio['DNIO']
 
-print("Archivo MAECLI.txt procesado")
 
 # # Leer el archivo de texto con los datos de MAETEL.TXT
 maetel_data = []
@@ -219,7 +224,6 @@ with open('BRIA_MAETEL.TXT', 'r') as maetel_file:
 # Convertir maetel_data en un DataFrame
 dfMaetel = pd.DataFrame(maetel_data, columns=['DNI', 'Tipo', 'Tel'])
 dfMaetel['DniO'] = df_intermedio['DNIO']
-print(df_intermedio.head())
 # Create a custom sorting function
 def custom_sort(tel_list):
     if 'Celular Principal' in tel_list:
@@ -231,26 +235,77 @@ def custom_sort(tel_list):
 grouped = dfMaetel.groupby('DNI')['Tel'].agg(list).reset_index()
 grouped['Tel'] = grouped['Tel'].apply(custom_sort)
 
-# Print the updated 'grouped' DataFrame
-print(grouped.head())
-
 # Dividir la columna combinada 'Col4' en 'Cel 1' y 'Cel 2'
 grouped[['Cel 1', 'Cel 2']] = grouped['Tel'].str.split('-', n=1, expand=True)
-print(grouped.head())
+
 # Eliminar la columna 'Col4' que ya no es necesaria
 grouped.drop(columns=['Tel'], inplace=True)
-print(grouped.head())
+
 # Renombrar las columnas
 grouped.rename(columns={'DNI': 'Dni'}, inplace=True)
-print(grouped.head())
+
 
 # Combina las columnas 'Cel 1' y 'Cel 2' de grouped en df_intermedio cuando coinciden los valores de 'DniO' y 'Dni'
 df_intermedio['Cel 1'] = df_intermedio['DNIO'].map(grouped.set_index('Dni')['Cel 1'])
 df_intermedio['Cel 2'] = df_intermedio['DNIO'].map(grouped.set_index('Dni')['Cel 2'])
 
-print("Archivo MAETEL.txt procesado")
-print(df_intermedio.head())
-# Esto agrega las columnas 'Cel 1' y 'Cel 2' al DataFrame df_intermedio cuando coinciden los valores de DniO y Dni
+
+# Lee el archivo de texto y crea el DataFrame
+# Lee el archivo de texto y divide las líneas en elementos
+with open('BRIA_MAEREL.txt', 'r') as file:
+    lines = file.readlines()
+
+# Inicializa listas para almacenar los datos de Legajo y DNI
+legajo = []
+dni = []
+
+# Recorre las líneas del archivo
+for line in lines:
+    # Divide cada línea en elementos separados por comas
+    elements = line.split(',')
+    
+    # Añade el primer elemento a la lista de Legajo y el cuarto elemento a la lista de DNI
+    legajo.append(str(elements[0].strip('"')))
+    dni.append(elements[3].strip())
+
+# Crea un DataFrame a partir de las listas de Legajo y DNI
+dfMaerel = pd.DataFrame({'Legajo': legajo, 'DNI': dni})
+
+pbar = tqdm(total= len(grouped))
+
+for index, row in tqdm(grouped.iterrows(),desc="ORDENANDO...", bar_format="{l_bar}{bar}{r_bar}"):
+    pbar.update(1)
+    dni_grouped = row['Dni']
+    matching_legajo = dfMaerel[dfMaerel['DNI'] == dni_grouped]
+
+    if not matching_legajo.empty:
+        legajo_grouped = str(matching_legajo['Legajo'].iloc[0])
+
+        matching_row_intermedio = df_intermedio[df_intermedio['Nro Legajo'] == legajo_grouped]
+
+        if not matching_row_intermedio.empty:
+            cel1_grouped = row['Cel 1']
+            cel1_intermedio = df_intermedio.loc[df_intermedio['Nro Legajo'] == legajo_grouped, 'Cel 1'].iloc[0]
+
+            if not pd.isna(cel1_grouped) and cel1_grouped != cel1_intermedio:
+                if cel1_intermedio is None:
+                    cel1_intermedio = ""
+
+                # Verificar si las cadenas no están contenidas una en la otra
+                if not all(part in cel1_intermedio.split('-') for part in cel1_grouped.split('-')):
+                    df_intermedio.loc[df_intermedio['Nro Legajo'] == legajo_grouped, 'Cel 1'] = cel1_intermedio + '-' + cel1_grouped
+
+            cel2_grouped = row['Cel 2']
+            cel2_intermedio = df_intermedio.loc[df_intermedio['Nro Legajo'] == legajo_grouped, 'Cel 2'].iloc[0]
+
+            if not pd.isna(cel2_grouped) and cel2_grouped != cel2_intermedio:
+                if cel2_intermedio is None:
+                    cel2_intermedio = ""
+
+                # Verificar si las cadenas no están contenidas una en la otra
+                if not all(part in cel2_intermedio.split('-') for part in cel2_grouped.split('-')):
+                    df_intermedio.loc[df_intermedio['Nro Legajo'] == legajo_grouped, 'Cel 2'] = cel2_grouped + '-' + cel2_intermedio
+pbar.close()
 
 fecha_actual = date.today()
 mes_actual = fecha_actual.strftime("%B")
@@ -317,19 +372,20 @@ nombre_archivo = f"Asignacion {mes_actual} {ano_actual}.xlsx"
 
 # Guardar el DataFrame en un archivo Excel
 dfFinal.to_excel(nombre_archivo, index=False, header=False)
+print("ARCHIVO GENERADO CON EXITO..")
 
-# Esto crea el DataFrame dfFinal con los datos especificados y lo guarda en un archivo Excel.
-
-# Esto crea el DataFrame dfFinal con los datos especificados y lo guarda en un archivo Excel.
-def mostrar_alerta_exito():
-    messagebox.showinfo("Éxito", "Archivo creado con éxito")
-
-# Crea una ventana en blanco
-ventana = tk.Tk()
-ventana.withdraw()  # Oculta la ventana principal
-
-# Llama a la función para mostrar la alerta de éxito
-mostrar_alerta_exito()
-
-# Cierra la ventana después de mostrar la alerta
-ventana.destroy()
+# Verifica si el archivo existe
+if os.path.isfile(nombre_archivo):
+    # Abre el archivo Excel
+    excel_app = openpyxl.load_workbook(nombre_archivo)
+    
+    # Abre la primera hoja del libro de trabajo
+    sheet = excel_app.active
+    
+    # Cierra el archivo para que pueda abrirse en Excel
+    excel_app.close()
+    
+    # Abre el archivo en la aplicación predeterminada (Excel en este caso)
+    os.system(f'start excel "{nombre_archivo}"')
+else:
+    print(f"El archivo '{nombre_archivo}' no se encontró.")

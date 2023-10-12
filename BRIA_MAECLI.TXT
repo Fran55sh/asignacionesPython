@@ -1436,7 +1436,7 @@
 0,35783172,"CORDOBA WALTER FRANCISCO ","NICOLAS LEVALLE               ","2224 ","     ","         0",8000
 0,40881825,"MARCHIONNE LAIN          ","MAZZINI                       ","624  ","     ","         0",7500
 0,24772168,"TARODO ARIEL RUBEN       ","JUAN B JUSTO                  ","3320 ","     ","         0",8000
-0,43263825,"ERRANDONEA LEONEL EZEQUIE","PEDRO HUGONY                  ","3041 ","     ","         0",8000
+0,43263825,"ERRANDONEA LEONEL EZEQUIE","GONZALEZ FABIAN               ","27   ","     ","         0",8000
 0,28296519,"ACEITUNO PAULA CELESTE   ","AVELLANEDA                    ","1020 ","     ","         0",8000
 0,30823074,"HOLZMANN LOURDES SOLEDAD ","TERRADA DUPLEX 95             ","2879 ","B    ","         0",8000
 2, 8311583,"SCHBIB OMAR JUAN         ","CALEU CALEU                   ","637  ","     ","   4860842",8000
@@ -1514,6 +1514,7 @@
 0,37029903,"BRACCO PAULA AGUSTINA    ","JOAQUIN V GONZALEZ            ","214  ","     ","         0",6500
 0,16922677,"CARRUZ NORA              ","RICHIERI                      ","2364 ","     ","         0",8000
 0,13836467,"MENNA ORLANDO            ","PAMPA CENTRAL                 ","734  ","     ","   4557287",8000
+0,35076329,"MICHELLI MARIA FLORENCIA ","DORREGO                       ","1398 ","     ","         0",7500
 0,20928173,"CORNOU GUILLERMO LUIS    ","NICOLAS PEREZ                 ","1591 ","     ","         0",8000
 0,29145956,"DAMIANI RODRIGO MATIAS   ","UGARTE                        ","19   ","     ","         0",8000
 0,24136151,"PINTO LUCRECIA HAYDEE    ","ROSALES                       ","563  ","     ","         0",8000
@@ -1547,6 +1548,7 @@
 0,26423492,"BECKER SILVANA DANIELA   ","LIBERTAD                      ","2370 ","     ","         0",8000
 0,40831383,"MUELAS LUANA             ","                              ","     ","     ","         0",   0
 0,22845667,"RAMIREZ SONIA            ","OHIGGINS                      ","664  ","4 a  ","         0",8000
+0,39165952,"GARMENDIA PATRICIA NOEMI ","CASTELLI                      ","1695 ","C.4  ","         0",7500
 0,24640017,"STORM CLAUDIA NOEMI      ","SIRIA                         ","464  ","     ","         0",8150
 0,37235070,"REPOLLO MARIANO RAFAEL   ","9 DE JULIO                    ","1261 ","2 c  ","         0",8000
 0,36541986,"ALVAREZ JORGE EZEQUIEL   ","JOSE HERNANDEZ                ","64   ","     ","         0",8105
@@ -1564,11 +1566,14 @@
 0,31935321,"AVERSI LAURA YANINA      ","AV. BOZAN                     ","2598 ","     ","         0",7260
 1,23286917,"ARAVENA MARISA ANDREA    ","MITRE                         ","3437 ","     ","   4883653",8000
 0,95084141,"ZORRILLA FERNANDEZ ALEJAN","EL GAUCHO                     ","1335 ","     ","         0",8150
+0,35774960,"CEMINO PEDERSEN MARIA S. ","RODRIGUEZ PEÑA                ","225  ","     ","         0",7500
 0,30680037,"SANABRIA HECTOR DANIEL   ","CASEROS                       ","527  ","     ","         0",7109
+0,38632050,"ANDRADA FERNANDO         ","SAENZ PEÑA                    ","646  ","     ","    424913",6400
 0,37033449,"CARNEZ LUIS MANUEL       ","ALMAFUERTE                    ","1134 ","     ","         0",6400
 0,25684491,"SANABRIA JUAN LUIS       ","SAN JOSÉ                      ","2690 ","     ","   4306711",8000
 0,26563989,"MONTRUBIANESI LUCRECIA OR","BRAILE                        ","194  ","     ","         0",6400
 0,37389681,"ORTMAN BRENDA JULIETA    ","LUIS AGOTE                    ","1665 ","     ","         0",8000
+0,22438891,"ALMADA ROXANA GABRIELA   ","J INGENIEROS                  ","3738 ","     ","    450391",7260
 0,40289371,"OCAMPOS MARIA MARTA      ","SUIPACHA                      ","380  ","     ","         0",7500
 0,42397776,"LABORDA FACUNDO EZEQUIEL ","DON BOSCO                     ","1050 ","     ","         0",8000
 0,29352978,"GONGORA MALVINA GUADALUPE","116                           ","52   ","88D  ","         0",7303
@@ -1607,36 +1612,123 @@
 0,20484539,"DUARTE OSCAR ALBERTO     ","J.SEGUI                       ","1353 ","     ","         0",7260
 0,38944167,"GOMEZ ALEXIS EMANUEL     ","CHANCAY                       ","1518 ","     ","         0",8000
 0,40300474,"ORELLANA MARTIN YOEL     ","RECONQUISTA                   ","2075 ","     ","         0",8000
-0,42883361,"CABRAL CANDELA TRINIDAD  ","RIO                           ","3475 ","     ","         0",8000
+0,31024294,"CASCALLARES DELIA DEL CAR","RODRIGUEZ                     ","297  ","     ","         0",7100
+0,42294303,"ARRIOLA PABLO AGUSTIN    ","RODRIGUEZ                     ","297  ","     ","         0",7100
 0,41257844,"AGUIRRE JOHANNA MACARENA ","                              ","     ","     ","         0",   0
 0,22199057,"CELEDON ELIZABETH        ","ROSAS                         ","452  ","     ","         0",8000
 0,30984423,"RAMOS DANIELA ANABEL     ","12 DE OCTUBRE                 ","2876 ","     ","         0",7260
 0,24160360,"CANAVESI MARIA DE LOS ANG","PRESIDENTE PERON              ","672  ","2    ","         0",8150
 0,33796429,"VIDAL JACQUELINA ALEJANDR","FELIX FRIAS                   ","980  ","     ","         0",8000
+0,29406750,"ARIAS ROMINA PAOLA       ","SARMIENTO TORRE 2             ","343  ","5DTO9","         0",8000
+0,38921947,"TORRES SOLEDAD LUJAN     ","62                            ","576  ","     ","         0",1900
 0,24889495,"ARZOLA LUCIANA ANDREA    ","GUIRALDES                     ","1226 ","     ","         0",8000
 0,33469377,"DOLAGARAY CARINA J.      ","CASTELLI                      ","1850 ","     ","         0",7500
 0,32585627,"CABRERA CRISTIAN ESTEBAN ","CASTELLI                      ","1850 ","     ","         0",7500
+0,25260103,"MERVICH MARIA YESICA     ","RUTA 3 KM 298                 ","S/N  ","     ","         0",7300
+0,26043847,"ECHETO MARIA OFELIA      ","9 DE JULIO                    ","S/N  ","     ","         0",7503
+0,36764849,"CIFARELLI NOELIA ELIZABET","GENERAL PAZ                   ","1327 ","     ","         0",7513
+1,38308308,"JURADO MARIA DE LOS ANGEL","SARMIENTO                     ","280  ","3 18 ","         0",7300
+0,38923621,"SILVA CARTES YAMILA REBEC","SANTA MARIA                   ","175  ","     ","         0",8000
+0,38315940,"MUÑOZ GUILLERMO ANDRES   ","SARMIENTO                     ","280  ","3/18 ","         0",7300
+0,36515015,"ALSINA DIEGO GABRIEL     ","PAMPA                         ","806  ","     ","         0",8153
+0,27803659,"BARROCA CARLA MABEL      ","BELGRANO                      ","723  ","     ","         0",7500
+0,44334728,"GIMENEZ AGUSTIN EZEQUIEL ","SARGENTO CABRAL               ","750  ","     ","         0",7513
+0, 5471025,"PALACIOS MARIA ESTRELLA  ","VILARDAGA                     ","2136 ","CASA ","    455101",7150
+0,14165715,"ACEVEDO ALDO RAUL        ","ITALIA                        ","2526 ","     ","         0",8000
+0,13375042,"SAENZ VALIENTE DIONISIO O","ROCHA                         ","1276 ","     ","         0",7500
+0,42293700,"MORALES MATIAS ARIEL     ","URUGUAY                       ","916  ","     ","         0",7500
+0,34172556,"KLAASSEN DIAZ FLORENCIA  ","HERNANDARIAS                  ","1208 ","     ","         0",8000
+0,28518314,"HUINCA PAMELA VANESA     ","TIERRA DEL FUEGO              ","3550 ","     ","         0",8000
 0,38295848,"LANGHOFF MARIANA GISELLE ","PARAGUAY                      ","555  ","DTO 7","         0",8000
 0,34762876,"RODRIGUEZ RICARDO        ","AGUSTIN ALVAREZ               ","1673 ","DTO B","         0",8000
+0,39851393,"DEL PORTICO EVELIN       ","DORREGO                       ","272  ","     ","         0",6550
+0,27857420,"SAGANIAZ DIEGO DAMIAN    ","MARGARITAS                    ","S/N  ","     ","         0",6550
+0,41547937,"CASTILLO FUENTES ANTONELA","                              ","     ","     ","         0",   0
+0,40300434,"PEREZ DIEGO SAUL ANDRES  ","TARAPACA                      ","764  ","     ","         0",8000
 0,31412108,"PATETTA CARLOS ALBERTO   ","BARRIO ESPORA                 ","C 99 ","     ","         0",8000
+0,30191247,"BEROISA PABLO ISAAC      ","EDERICO LELOIR                ","583  ","     ","         0",8000
 0,43304252,"DUHALDE MARTINA          ","CASEROS                       ","998  ","     ","         0",7500
 1,25821011,"LAURIA LORENA ROSANA     ","VELEZ SARSFIELD               ","440  ","1 A  ","         0",7500
+0,94287158,"LOPEZ SAAVEDRA MIRTHA FIO","REMEDIO                       ","5450 ","     ","   4860701",8000
+0,35398209,"TURIEL GISELA BELEN      ","DON BOSCO                     ","474  ","3    ","         0",8000
+0,38431024,"CIGARRA MAYRA BELEN      ","UNDIANO                       ","18   ","2 C  ","         0",8000
 0,29360939,"MEDINA DIEGO GERARDO     ","14 DE JULIO                   ","1675 ","     ","         0",8000
 0,40373909,"TRENTINI ANTONELLA MELIN ","MAIPÚ                         ","2720 ","     ","         0",8000
+0,34233411,"MELLA SALAZAR CANDELA BEA","PACÍFICO                      ","4057 ","     ","         0",8000
+0,35987610,"FREDES JONATHAN ELIAS    ","SELARRAYAN                    ","3665 ","     ","         0",8000
+0,28604542,"FIGUEROA GRACIELA NOEMI  ","ESPAÑA                        ","752  ","     ","    453818",7150
 0,36499656,"D ANGELO DANIEL ALEJANDRO","SALTA                         ","684  ","     ","    441419",7100
+0,33369316,"GABRIELLI ANTONELA V.    ","IRIGOYEN                      ","762  ","7 A  ","   4885615",8000
+0,36328700,"GABRIELLI SOFIA          ","ALVEAR                        ","2403 ","     ","         0",8000
 0,18085235,"RODRIGUEZ PATRICIA A.    ","LOPEZ Y PLANES                ","S/N  ","     ","         0",7503
+0,38291044,"GUERREIRO DIEGO ANDRES   ","LA PLATA                      ","719  ","     ","         0",7500
+0,40084400,"MORA DIEGO LUIS          ","OLAVARRIA                     ","261  ","     ","         0",7300
+0,16922083,"COLICHEO LILIANA MABEL   ","VICTORICA                     ","3231 ","     ","   4886025",8000
+0,32887731,"QUILALEO JOHANA  NOEMI   ","SAENZ PEÑA                    ","141  ","a    ","         0",8000
+0,17173434,"CUEVAS MARIA DEL CARMEN  ","MAR DEL PLATA                 ","1830 ","     ","         0",7500
+0,33845730,"DUPIN MARIANGELES TATIANA","BULNES                        ","07   ","     ","         0",7515
+0,16521394,"RODRIGUEZ MONICA IDA     ","RIGAMONTI MNZ 1               ","680  ","C 14 ","   5170233",8000
+0,11233297,"IRIARTE OSCAR ATILIO     ","RIGAMONTI                     ","680  ","     ","   5170233",8000
+0,34624872,"SOLANS DIEGO ALEJANDRO   ","EMILIO DE LA CALLE            ","240  ","     ","         0",7500
+0,26172531,"MORENO GUSTAVO LUIS      ","OHIGGINS                      ","21   ","     ","         0",8118
+0,44562012,"RAMOS JOAQUIN            ","GENERAL PAZ                   ","155  ","5° 6 ","         0",8000
+0,16926539,"IRIGOIN ANA VELIA        ","ALSINA                        ","918  ","     ","         0",7500
+0,33537427,"SILACCI LUCIANO ARIEL    ","BALCARCE                      ","114  ","     ","         0",7513
 0,30284811,"FRANCISCONI ROMINA PAMELA","CALLE 21                      ","S/N  ","     ","         0",7111
 0,28457359,"GOBETTI DAMIAN PABLO     ","RUTA 63                       ","KM 1 ","     ","         0",7100
 0,36961395,"AVILA ROMINA ALEJANDRA   ","LUCERO                        ","2049 ","     ","   4883704",8000
+0,32663145,"GRIMAL MARIA VICTORIA    ","UNDIANO                       ","746  ","     ","         0",8000
+0,29979937,"ROSSI FACUNDO ANDRES     ","BºS FRANC.CALL97 CAS          ","33   ","     ","    430882",7300
+0,23867998,"CHERINI ANALIA VERONICA  ","CALLE 1810                    ","539  ","     ","         0",8000
 0,27332990,"ESPINAL GUSTAVO ARIEL    ","GUEMES                        ","1531 ","     ","         0",7500
 0,34624833,"RAMOS JOAQUIN MANUEL     ","MAR DEL PLATA                 ","1900 ","     ","         0",7500
 0,41553490,"PEREYRA SOFIA            ","CASTELLAR MANUEL              ","958  ","PB1  ","         0",7300
 0,44240597,"DIAZ MARCOS              ","                              ","     ","     ","         0",   0
 0,25525433,"PALACIOS SORAYA KARINA EL","LAVALLE                       ","81   ","1 b  ","   4564151",8000
+0,46901977,"CARRERAS GRACIELA        ","HOLDICH                       ","2348 ","     ","         0",8000
+0,32555963,"FIORENZA NATALIA ANALIA  ","CNEL. J. IBARZABAL            ","1124 ","     ","    435058",7300
+0,30240629,"SASSANO RAMIRO DOMINGO   ","OLAVARRIA                     ","201  ","     ","    436023",7300
+0,41289264,"PALACIOS ANALIA BELEN    ","LAS FLORES NORTE              ","00908","     ","         0",7300
+0,41741778,"PORROVECCHIO FRANCO ANTON","MALVINAS                      ","571  ","     ","         0",7300
 0,23835542,"ZARIATTI MARIA EUGENIA   ","ANDRADE                       ","0300 ","     ","         0",7214
+0,22845608,"BETTINELLI ANA LAURA     ","PIGUE                         ","2765 ","     ","         0",8000
+0,23237787,"QUIROGA MOISES RAUL      ","THOMPSON                      ","1456 ","     ","         0",8000
 0,47453457,"PENNESI FRANCO EMANUEL   ","LUIS PIEDRA BUENA             ","1209 ","     ","         0",8000
+0,24732064,"ORELLANO SOLIS ABELIANO A","RIVADAVIA                     ","788  ","     ","         0",7300
+0,39147969,"ALZAMENDI WALTER ARIEL   ","CANEVA                        ","1292 ","     ","         0",7300
+0,36545489,"GAUNA NICOLAS ALFONSO    ","GUEMES                        ","68   ","PB D8","         0",7300
+0,44452548,"DARINO MACARENA          ","MATHEU                        ","55   ","     ","         0",6550
+0,13542187,"SOSA TOMAS OSVALDO       ","CHUBUT                        ","1024 ","     ","         0",7300
+0,38436610,"ZARATE PAULA MICAELA     ","PRAT                          ","1221 ","     ","         0",7300
+0,24531423,"VALETTI ADRIANA LORENA   ","PAROISSIEN                    ","1760 ","     ","         0",8000
+0,36797580,"ALCAYAGA JORGE ALEJANDRO ","FALUCHO                       ","1151 ","     ","         0",7300
+0,26958095,"ROBERT CARINA LORENA     ","C. SALINAS CHICAS             ","3249 ","     ","         0",8000
+0,36794782,"LOPEZ ERIKA YAMILA       ","                              ","     ","     ","         0",   0
+0,37389571,"ALVAREZ CRISTIAN EZEQUIEL","PESQUERO NARWAL               ","2900 ","     ","         0",8000
+0,21504548,"ROJO ROBERTO MARCELO     ","CABO GONZALEZ                 ","1065 ","     ","         0",7300
+0,41742068,"CORTES LUCIANO LEANDRO   ","HUMBOLDT                      ","2438 ","     ","         0",8000
+0,53147033,"ACEVEDO VELAZQUEZ MARIANA","RIO NEGRO                     ","2179 ","     ","         0",8000
+0,36751718,"SILVA MAURO CRISTIAN     ","SEGUNDA DE TERRADA PISO 2 D10 ","2753 ","P2   ","   4889273",8000
+0,30674712,"DIFINO JUAREZ ANGELES ROX","FELIPE VARELA                 ","476  ","D2   ","         0",8000
+0,18663956,"CABRAL CLAUDIA ELISABET  ","PAMPA CENTRAL                 ","362  ","     ","         0",8000
+0,41103243,"ARIAS PAIZ ROMINA        ","ROSELLO                       ","261  ","INT 3","         0",7000
+0,31107555,"BILBAO JORGELINA DANIELA ","TANDIL                        ","0114 ","     ","         0",7300
+0,33007140,"CERRUDO FEDERICO ALEJANDR","TANDIL NORTE                  ","114  ","     ","         0",7300
+0,41145910,"ANDERSEN ARIANA AYLEN    ","CORONEL VIDAL                 ","612  ","     ","         0",8000
 0,36541502,"CHIRINO ROMINA HAYDEE    ","PUNTA ALTA                    ","2062 ","     ","         0",8000
-0,41547944,"PAEZ DIEGO OSCAR         ","JUJUY                         ","1974 ","     ","         0",8000
+0,43514518,"GARAY MICAELA ROCIO      ","SANTOS ALCOLEA                ","351  ","     ","         0",8105
+0,27708459,"GONZALEZ JAVIER ALEJANDRO","SAN MARTIN                    ","351  ","     ","         0",8000
+0,39157831,"PARROTTI SEBASTIAN ALEJAN","CRISTO REDENTOR               ","1833 ","     ","         0",8000
+0,39149004,"HERNANDEZ GONZALEZ CRISTI","LA PINTA                      ","226  ","     ","         0",8000
+0,39107962,"PERALTA VICTORIA TATIANA ","LARREA                        ","375  ","     ","         0",8105
+0,43393490,"OLIVERA SANTIAGO ALFREDO ","BOLIVAR                       ","1655 ","     ","         0",7500
+0,41547944,"PAEZ DIEGO OSCAR         ","VILLARINO                     ","2290 ","     ","         0",8000
+0,28219097,"DIEZ GERMAN ANTONIO      ","SAENZ PEÑA                    ","1125 ","     ","         0",8000
+0,41097579,"MUÑOZ MATIAS NICOLAS     ","MARTINA CESPEDES              ","880  ","     ","         0",8000
+0,43596709,"NAVARRETE AYLEN ARACELI  ","RICHIERI                      ","640  ","     ","         0",8000
+0,35987444,"BALLESTERO JORGE HORACIO ","ITALIA                        ","2931 ","     ","   4566101",8000
+0,27643556,"VARGAS MARIA ELENA       ","HUMBOLDT                      ","3630 ","     ","   4822404",8000
+0,40769507,"BALLE JULISSA LUDMILA    ","PELLEGRINI                    ","743  ","     ","   4524118",8000
 0,18027349,"ARRIGHI MARIA ALEJANDRA  ","AV MITRE                      ","83   ","     ","         0",7635
 0,38702815,"FILIPONE BRENDA LUJAN    ","DOMINGUEZ                     ","660  ","     ","         0",6450
 0,33186031,"LOPEZ MARIA EUGENIA      ","ISABEL LA CATOLICA            ","1850 ","     ","         0",7500
@@ -2040,118 +2132,6 @@
 0,32532096,"AVALOS NATALIA SABRINA   ","GRAL BOLIVAR                  ","536  ","     ","         0",8000
 0,34773875,"EGUSQUIZA LOPEZ CECILIA V","LARREGLE                      ","1474 ","     ","         0",6550
 0,36272535,"PEREZ DARIO ALBERTO      ","ESPERANZA                     ","80   ","     ","         0",6550
-0,20389334,"VARELA JOSE LUIS         ","IRIGOYEN                      ","1805 ","     ","         0",6500
-0,37770873,"BELLANDI ANTONELLA MAGALI","PIEDRABUENA                   ","245  ","     ","         0",6450
-1,95535053,"GIRALDO GUTIERREZ YEIMY L","ALVEAR                        ","2407 ","     ","         0",8000
-0,25624969,"PALLE JULIETA JORGELINA  ","MORENO                        ","654  ","     ","         0",7150
-0,24915026,"RIVAROLA GUSTAVO JUAN J. ","CIAÑO                         ","361  ","     ","         0",7150
-0,35331099,"ALONSO MARCELO FABIAN    ","IND. DEL PERU                 ","316  ","     ","         0",6450
-0,39279351,"BASTIT NARA ERNESTINA    ","BELGRANO                      ","1789 ","     ","         0",7100
-0,39596071,"CHINESCHNICH CARLOS ANDRE","ALEM                          ","375  ","     ","         0",6450
-0,35331074,"SANDOVAL GUSTAVO EZEQUIEL","ENCINA                        ","806  ","     ","         0",6450
-0,23776748,"ESPINOZA SILVIA ANDREA   ","DI SARLI                      ","1864 ","     ","         0",8000
-0,25978590,"LEON  RUBEN DARIO        ","GOYENA                        ","635  ","     ","    401400",6450
-0,25995664,"BORREGO LAURA DELIA BEATR","FITZ ROY                      ","22   ","     ","         0",8000
-0,42041857,"AZCONA SAMMARONI MILAGROS","LISANDRO DE LA TORRE          ","378  ","     ","         0",7635
-0,41547599,"CORONEL CANDELA VIVIANA  ","CAPITAN ESTIVARIZ             ","6365 ","     ","         0",8000
-0,25468927,"SEQUEIRA ELENA ESTHER    ","LAVALLE                       ","350  ","     ","         0",8132
-0,35033382,"PIGNANELLI JONATHAN IVAN ","CASTELLANO                    ","1005 ","     ","         0",6450
-0,26794033,"MUÑOZ PAULA NELIDA       ","SANTA CRUZ                    ","3130 ","     ","         0",8000
-0,37016674,"CORTI ROCIO ANTONELLA    ","GARDES                        ","1141 ","002  ","         0",6450
-0,23797401,"SALVATIERRA SILVANA MARCE","PUEBLO CANOERO                ","1635 ","     ","   4535365",8000
-0,31524022,"CATRIEL MARA DANIELA     ","PABLO LEJARRAGA               ","1971 ","     ","         0",8000
-0,36278476,"DE LA FUENTE RUBIO MARTHA","FABIAN GONZALEZ               ","459  ","     ","         0",8000
-0,24412578,"LOPEZ JUAN MIGUEL        ","GALLARDO NORTE                ","0150 ","     ","         0",7400
-0,31974518,"PEREZ LUCAS EZEQUIEL     ","A JAURECHE                    ","855  ","     ","         0",6450
-0,11531854,"JAIME EDGARDO ROBERTO    ","ALMAFUERTE                    ","1195 ","     ","         0",7150
-0, 4567641,"CAÑETE GRACIELA INES     ","MAR DEL PLATA                 ","154  ","     ","         0",7513
-0,38428087,"SCALOGNA SABRINA TAMARA  ","BELGRANO                      ","35   ","     ","         0",7635
-0,36541995,"CRISOSTOMO DAIANA BEATRIZ","SANTA MARIA                   ","1368 ","     ","         0",8000
-0,43802017,"VELASQUEZ SANTIAGO AGUSTI","SAN JOSE                      ","708  ","     ","         0",8000
-0, 8569148,"DE LA FUENTE JOAQUIN ANTO","ITALIA                        ","564  ","     ","         0",8000
-0,43589889,"SANCHEZ BRISA ANDREA     ","LAPRIDA                       ","2    ","     ","         0",7300
-0,26421420,"MODARELLI VALERIA MARIEL ","ROSARIO                       ","1851 ","     ","         0",8000
-0,41642877,"CAÑULEF VIOLETA          ","REHUE                         ","1960 ","     ","         0",8000
-0,33476095,"TRUEBA Y VERA IGNACIO ANI","LAS FLORES                    ","361  ","     ","         0",7300
-0,27872494,"GOMEZ NATALIA ELIZABET   ","RONDEAU                       ","656  ","     ","   4570464",8000
-0,31681630,"CRESPO VICTORIA          ","GORRITI                       ","1208 ","     ","         0",6450
-0,27420124,"GOMEZ LUIS NAZARENO      ","A. INCHAUSPE                  ","156  ","     ","         0",6450
-0,16922994,"DI NARDO DANIEL ROBERTO  ","TARIJA                        ","3649 ","     ","   4570978",8103
-0,22244088,"CHARRA MARCELO ALEJANDRO ","PASO                          ","505  ","     ","         0",6553
-0,38200980,"TORRES HUGO ENRIQUE DAVID","ANGEL ALUCH                   ","35   ","     ","         0",8105
-0,38012272,"MOREIRA SANTIAGO EMMANUEL","GURRUCHAGA                    ","555  ","     ","         0",8000
-0,36797547,"ASPIROZ ELIANA ARACELI   ","SARMIENTO                     ","1278 ","b    ","         0",7300
-0,42945767,"IBARRA KATHERINE         ","NEWTON                        ","2323 ","     ","         0",8000
-0,40300473,"ODRIOZOLA ANTONELLA LUISI","PLUNKETT                      ","1040 ","     ","         0",8000
-0,38692611,"BARRERA AYELEN           ","CUARTEL 11                    ","244  ","     ","         0",7101
-0,42883417,"HUSAR MARIANA MARIEL     ","BRICKMAN                      ","1495 ","2/10 ","         0",8000
-0,32271709,"MELLA GISELA ANDREA      ","LEOPOLDO MARECHAL             ","1814 ","     ","         0",8000
-0,24924751,"ROMERO NILDA EDELMIRA    ","CHACO                         ","524  ","     ","         0",8000
-0,41071126,"PEÑA DANIELA NOEMI       ","ESMERALDA                     ","153  ","     ","         0",8000
-0,39148769,"MARTINEZ FLORENCIA DANIEL","PIROVANO                      ","3437 ","     ","         0",8000
-0,40066182,"ALEGRIA ANTONELA DAIANA  ","PARERA                        ","2349 ","     ","         0",8000
-0,32209220,"BASCAL ADRIAN OSCAR      ","PARERA                        ","2361 ","     ","   4564936",8000
-0,46697652,"MARIN AGUSTINA ABRIL     ","                              ","     ","     ","         0",   0
-0,38320891,"MARIN PAUL GUSTAVO       ","VENEZUELA                     ","1972 ","     ","         0",8103
-0,30913668,"BARRIENTOS PAOLA DANIELA ","PARERA                        ","2349 ","     ","         0",8000
-0,23801537,"DE LA CANAL MONICA MATILD","DR RONCORONICASA65 CALLE PAZ  ","100  ","     ","         0",7100
-0,40066083,"PEREZ FERNANDA INES      ","AVENENTE                      ","3746 ","     ","   4009267",8000
-0,29630893,"GALINDO VIVIANA NOEMI    ","CUBA                          ","2622 ","     ","         0",8000
-0,21973222,"BARROS MARIA LILIAN      ","PATRICIOS                     ","1794 ","     ","   4558891",8000
-0,34487120,"GONZALEZ YESICA AYELEN   ","CORDOBA                       ","91   ","     ","         0",6530
-0,36442910,"TISEIRA MAXIMILIANO E.   ","CORRIENTES                    ","0018 ","     ","         0",7300
-0,29868791,"GOMEZ NANCY SOLEDAD      ","FORTIN CARHUE                 ","2750 ","     ","         0",8000
-0,40859984,"MARTINEZ ANGEL DANIEL    ","ARENALES                      ","723  ","     ","         0",6550
-0,23289787,"ROSCANI MARTIN ALBERTO   ","MARTIN RODRIGUEZ              ","815  ","     ","         0",8000
-0,43590584,"ROSCANI ROCIO DEL CIELO  ","MARTIN RODRIGUEZ              ","815  ","     ","         0",8000
-0,38014713,"SOTES JUAN MANUEL        ","                              ","     ","     ","         0",   0
-0,39548616,"TISEIRA HIDALGO FLORENCIA","LAS CAUTIVAS                  ","0049 ","     ","         0",7300
-0,43511273,"RAVA GONZALO IVAN        ","CTE FRANCO                    ","216  ","     ","         0",7300
-0,33483428,"ZABALA SILVANA DANIELA   ","ALSINA                        ","916  ","     ","         0",7214
-0,17837425,"DIAZ ROSARIO LUISA       ","PATRICIO                      ","812  ","1º a ","         0",8000
-0,23835928,"ANDRADA MONICA ELIZABETH ","DE LAS POSTAS                 ","666  ","B    ","         0",7300
-0,40099259,"CAPEL ORTIZ SANDRA ELISAB","PAULA ALBARRACIN              ","32   ","     ","         0",8000
-0,35828628,"FIOL LUCAS JEREMIAS      ","SARMIENTO                     ","18   ","     ","         0",6530
-0,38667296,"WARD CARLOS FERNANDO     ","CALLE 2002                    ","406  ","     ","         0",7300
-0,20331500,"FERREYRA ALEJANDRO CEFERI","B° UOCRA CASA                 ","141  ","     ","         0",7300
-0,26208519,"OSAMIZ ROXANA ANDREA     ","RIVADAVIA NORTE               ","523  ","     ","         0",7300
-0,27854010,"GAMIZO LUCAS             ","MARMOL                        ","52   ","     ","         0",6474
-0,17235039,"TOMASSETTI ADRIANA       ","AVELLANEDA                    ","357  ","     ","         0",8000
-0,30928986,"ALVAREZ SERGIO GASTON    ","AV 9 DE JULIO                 ","19   ","     ","         0",6455
-0,35219896,"LANDA SOFIA ROMINA       ","LAS HERAS                     ","350  ","     ","         0",8000
-0,41099636,"MANQUENAHUEL OCAMPO AITOR","CORDOBA                       ","260  ","     ","         0",8000
-0,37021178,"MENDEZ CARLA DANIELA     ","PUEYRREDON                    ","67   ","     ","         0",6530
-0,43867286,"GARTLAND FRONTALINI ORIAN","ARENALES                      ","1689 ","     ","         0",7300
-0,38406020,"ROLDAN FRANCO JONATAN    ","BALCARCE                      ","895  ","     ","         0",6530
-0,43798246,"GLADEL LUCILA            ","ALEM                          ","1317 ","     ","    451200",7150
-0,40065718,"MOYA CAMILA FLORENCIA    ","PUNTA ALTA                    ","1795 ","     ","         0",8000
-0,28823678,"CAMPOS PATRICIA ANABEL   ","25 DE MAYO                    ","1819 ","     ","         0",8000
-0,41547712,"GARCIA TOMAS EMANUEL     ","SANTA CRUX                    ","2099 ","     ","         0",8000
-0,38090872,"GRANDON FRANCO EZEQUIEL  ","                              ","     ","     ","         0",   0
-0,39877556,"LEIVA MICAELA DARIANA    ","ESTOMBA                       ","381  ","7    ","         0",8000
-0,23695348,"ALAMO EMILCE ANDREA      ","HONDURAS                      ","2852 ","     ","         0",8000
-0,42766023,"VELAZQUEZ DORA EVELIN    ","AV SAN MARTIN                 ","2560 ","     ","         0",8103
-0,39507308,"CARES ERIKA AYELEN       ","JUAN MOLINA                   ","1624 ","     ","         0",8000
-0,36217729,"BUSTO LUCIANA GISELLE    ","LA PAMPA                      ","350  ","     ","         0",6451
-0,30467100,"COUSTE LUIS EMILIO       ","GARDEL C.                     ","267  ","     ","    452165",7150
-0,33247289,"RISUEÑO MARIA BELEN      ","RICHIERI                      ","1185 ","     ","   4543259",8000
-0,32026579,"FLORES DIEGO ALEJANDRO   ","RICHIERI                      ","1185 ","     ","         0",8000
-0,41074050,"CASAMAYOR FRANCISCO BREND","MONSEÑOR ANGELELLI            ","1168 ","     ","         0",8000
-0,20317072,"PAIOLA MARIA MAGDALENA   ","ESTOMBA                       ","680  ","     ","         0",8000
-0,43370304,"LOPEZ FERNANDO ANDRES    ","MONSEÑOR ANGELELLI            ","1168 ","     ","         0",8000
-0,41644233,"SEGOVIA MARIA AGUSTINA   ","SARMIENTO                     ","280  ","1_ 8 ","         0",7300
-0,32643636,"PERAZZO GERMAN JOSE      ","TANDIL                        ","135  ","     ","         0",7300
-0,35398218,"TELLEZ EMANUEL AXEL      ","CATAMARCA                     ","1440 ","     ","         0",8000
-0,32641074,"PEREZ ESTEBAN OMAR       ","POLICIA COMUNAL 5             ","s/n  ","     ","         0",6450
-0,39148071,"LOUSTAU ARI PAZ          ","ESPAÑA                        ","4081 ","     ","         0",7400
-0,36773165,"TAYLOR JOANA ANDREA      ","DR SUIT                       ","sn   ","     ","         0",7635
-0,38952274,"OLMEDO NESTOR ABEL       ","PLAN FEDERAL 2                ","4    ","     ","         0",6530
-0,35986813,"MIRANDA SOSA ALEXANDER A.","UNDIANO                       ","1543 ","1    ","         0",8000
-0,26303342,"GONZALEZ MARTIN MIGUEL   ","TEHUELCHES                    ","276  ","     ","         0",6530
-0,44724137,"TOLOZA GONZALEZ ESTEFANIA","LIBERTAD                      ","3150 ","     ","         0",8103
-0,39957897,"LAUMANN EZEQUIEL FABIAN  ","SANTA MARIA                   ","1085 ","     ","         0",8000
-0,44849584,"HALM FACUNDO OMAR        ","                              ","     ","     ","         0",   0
-0,11226660,"PAINECURA PEDRO TELMO    ","ROJAS RUFINO                  ","2866 ","     ","         0",8000
 0,20581268,"SORIANO MIRIAM B.        ","RECONQUISTA                   ","290  ","     ","    432578",7500
 0,28299665,"BARU MARIO JAVIER        ","CHACABUCO                     ","101  ","     ","         0",7500
 0,22475609,"REBOLLEDO ADRIANA P.     ","ALTE. GUISE                   ","945  ","     ","    426670",7500
@@ -2198,7 +2178,7 @@
 0,14437563,"ROMERO ELENA BEATRIZ     ","ROJAS                         ","3560 ","     ","         0",7260
 0,37390117,"ALMIRON MATIAS OSCAR     ","ADRIAN VEREZ                  ","873  ","     ","   4303036",8000
 0,21797334,"ABITANTE JOSE OMAR       ","Bº PB MOBLK 21 IISA           ","S/N  ","PB B ","         0",7300
-0,24732049,"RAMOS MANRIQUE DEBORA EDI","MORENO  Y CALLE 5             ","4pbA ","     ","    432970",7300
+0,24732049,"RAMOS MANRIQUE DEBORA E. ","MORENO  Y CALLE 5             ","S/N  ","     ","         0",7300
 0,27713635,"FLORENCIO CARLOS         ","BOLIVAR                       ","269  ","     ","         0",7300
 0,34961684,"CORONEL YAMILA ROSANA    ","PERU                          ","290  ","     ","         0",6555
 0,36301981,"BONETTI EMILIO           ","PERU                          ","290  ","     ","         0",6555
@@ -2261,17 +2241,18 @@
 0,34876996,"ANTONIO ALEJANDRA ANALIA ","EMILIANO SAEZ                 ","1783 ","     ","    419578",6400
 0,22024598,"GIAMMATOLO MARIA LETICIA ","SAN CARLOS                    ","0527 ","     ","         0",7300
 0, 6209210,"ACUÑA NILDA DORA         ","SARMIENTO                     ","3823 ","     ","         0",7400
+0,31837559,"ESPINOZA CARMEN ANDREA   ","CELESTINO MUÑOZ               ","1880 ","     ","    414833",7400
 0,11170416,"DI PIETRO ELBA MARIA     ","BECO T9 4TO C                 ","S/N  ","     ","         0",7300
 0,33956962,"KEES CINTIA              ","CARLOS DI SARLI               ","931  ","     ","         0",8000
 0,19022139,"DAVILA LUNA IRMA YENIFER ","ROSALES                       ","2228 ","     ","    496695",7167
-0,28835665,"CARIMAN PAOLA VANESA     ","SAN MARTIN                    ","402  ","     ","         0",7406
+0,28835665,"CARIMAN PAOLA VANESA     ","SAN MARTIN                    ","605  ","     ","         0",7406
 0,28195068,"ORTIZ JUAN ANDRES        ","ALBERDI                       ","664  ","     ","         0",7406
 0,29773458,"NAVARRO NELSON DANIEL    ","70                            ","2172 ","     ","         0",7630
 0,20316744,"BORGETT MARCOS ALFREDO   ","PJE. MALVINAS ARG.            ","852  ","     ","         0",7414
 0,33675705,"BENITEZ PREISEGGER MARIA ","BELGRANO                      ","2971 ","3ºD  ","         0",7400
 0,11375005,"BALVIDARES ANGEL ALBERTO ","URIBURU                       ","895  ","     ","    430580",7540
 0,30421646,"MANSILLA SARA AMELIA S.  ","COMERCIO                      ","975  ","     ","    430804",7300
-0,41197936,"GASTALDI LISANDRO THOMAS ","JOSÉ MARIA PAZ                ","972  ","     ","         0",7300
+0,41197936,"GASTALDI LISANDRO THOMAS ","RUTA 3 KM 301                 ","S/N  ","     ","         0",7300
 0,16125573,"RODRIGUEZ ANGELA RAMONA  ","ARTURO ILLIA                  ","6    ","     ","         0",6530
 0, 5317935,"CARREÑO MABEL EVELIA     ","PTE ILLIA                     ","6    ","     ","         0",6530
 0,14645834,"PERALTA ROSA INES        ","GUEMES                        ","3289 ","     ","         0",8000
@@ -2285,6 +2266,7 @@
 1,95176153,"RODRIGUES DA FONTOURA LIA","P 105 E 6 Y 7                 ","656  ","     ","    472200",7165
 0,17935372,"LONGO MARIA FABIANA      ","ISRAEL                        ","603  ","     ","         0",7540
 0,36272590,"SARCHIONE ANYELEN MAGALI ","SAAVEDRA                      ","1064 ","     ","         0",6550
+0,40306912,"ASPEE NATALIA LUCIA      ","REP. DEL LIBANO               ","863  ","     ","         0",7600
 0,27952385,"CORBALAN PABLO ENRIQUE   ","MALVINAS                      ","971  ","     ","         0",7300
 0,29405858,"BUGIOLACHIO MARIA V.     ","25 DE MAYO                    ","1338 ","     ","    520526",6500
 0,35893436,"MENDOZA MARIA LUZ        ","M.LEAL TORRE B                ","4445 ","10ºC ","         0",7400
@@ -2393,7 +2375,7 @@
 0,25186520,"DEBAZ NATALIA NOEMI      ","PELLEGRINI                    ","115  ","     ","         0",7118
 0,40859891,"URQUIJO DEBORA TAMARA    ","J. ETCHEGOYEN                 ","1648 ","C 25 ","         0",7260
 0,33479930,"FARIAS NATALIA YESICA    ","J. ETCHEGOYEN                 ","1648 ","C 25 ","         0",7260
-0,26404103,"MARTINEZ FREDES SONIA E. ","78                            ","2854 ","     ","         0",7630
+0,26404103,"MARTINEZ FREDES SONIA E. ","49                            ","3556 ","     ","         0",7630
 0,29639056,"MIGUEZ DIANA B           ","JOSE HERNANDEZ                ","73   ","     ","         0",7163
 0,20545163,"DOSISTO GRISELDA PATRICIA","GAZZOTTI                      ","910  ","     ","         0",6450
 0,37425828,"DIAZ ANDREA CAROLINA     ","CARLOS CASARES                ","1678 ","     ","         0",6400
@@ -2514,6 +2496,8 @@
 0,23213480,"LIRIO CARMEN ROXANA      ","DE LAS CAUTIVAS               ","782  ","     ","         0",7300
 0,32918411,"DIAZ SILVINA MABEL       ","ALEM                          ","1782 ","PB/12","         0",7260
 0,20837494,"PONCE CAROLINA MARCELA   ","PUEYRREDON                    ","1284 ","     ","    614718",6500
+0,42900985,"ALMEIDA LORENA SOLEDAD   ","41                            ","4424 ","     ","         0",7630
+0,41998538,"RODRIGUEZ AMOYAO DENIS A.","41                            ","4424 ","     ","         0",7630
 0,32954608,"POHLMANN MARIANA SOLEDAD ","GUTENBERG                     ","1954 ","     ","   4841817",7600
 0,12641349,"POHLMANN DANIEL ENRIQUE  ","GUTENBERG                     ","1954 ","     ","   4841817",7600
 0,26043805,"LIZARRONDO ALEJANDRO E.  ","LEONCIO ALDEA                 ","69   ","     ","         0",8150
@@ -2585,7 +2569,7 @@
 0,11941309,"ESPINOSA MIRTA SILVIA    ","SPIRO                         ","1740 ","     ","    487319",7167
 0,23691742,"IRIARTE SILVINA ALEJANDRA","DORREGO                       ","1270 ","     ","         0",7406
 0, 6168583,"BAHIA NORMA CASILDA      ","ARENALES                      ","399  ","     ","         0",7406
-0,16643856,"PEREIRA MARIA CRISTINA   ","RODRIGUEZ PEÑA                ","426  ","     ","         0",7406
+0,16643856,"PEREIRA MARIA CRISTINA   ","AV. URIBURU                   ","365  ","     ","         0",7406
 0,16483698,"JAURENA RUBEN DANIEL     ","COLON                         ","225  ","     ","         0",7300
 0,18594478,"RODRIGUEZ MARIA TERESA   ","BºP.BURGOS MBK 26             ","S/N  ","     ","         0",7300
 0,10072806,"MARCHAND ALBA LEONOR     ","MITRE                         ","42   ","DTO B","    426282",8109
@@ -2614,7 +2598,7 @@
 0,32471195,"ORONA ADRIAN HORACIO     ","RIVADAVIA                     ","985  ","     ","         0",6465
 0,38791529,"ERROTABERE MARCO ANDRES  ","AV ARIAS                      ","1339 ","     ","         0",8000
 0,28392710,"TRIPAILAO ZUAIN SILVIO N.","MUNILLA                       ","821  ","     ","   4880312",8000
-0,22086753,"GALAN JUAN ANGEL         ","COLOMBIA                      ","71   ","     ","         0",7000
+0,22086753,"GALAN JUAN ANGEL         ","PORTUGAL                      ","777  ","PB 5 ","         0",7000
 0,33866613,"AGUERO JONATAN EDUARDO   ","807 E/ 0 Y 2                  ","S/N  ","     ","         0",7609
 0,17211410,"ISLAS RAUL MARCELO       ","MANUEL LEAL                   ","4415 ","12 F ","    410891",7400
 0,41873622,"ROMERO CAMILA GABRIELA   ","DERQUI                        ","920  ","     ","         0",6400
@@ -2686,6 +2670,7 @@
 0,14403904,"BALVERDE OLGA BEATRIZ    ","4 E/ DEL VALLE Y 17           ","617  ","     ","         0",7620
 1,95102124,"RAMOS SOLIZ JHORDANA JHOS","SAAVEDRA                      ","964  ","     ","    518493",7167
 1,94445562,"SOLIZ ALICIA             ","RIO DE JANEIRO                ","382  ","     ","    518493",7167
+0,33100685,"DIAZ FLAVIA SOLEDAD      ","ALVEAR CASA Nº                ","20   ","     ","         0",7174
 0,16240162,"AGUILAR MARIA DE LOS A.  ","AV.13                         ","1723 ","     ","         0",7165
 0,16912561,"ZONFRILLO PEDRO LUIS     ","AV.13 E/117 Y 118             ","1723 ","     ","    450819",7165
 0,38923155,"FERNANDEZ FACUNDO ARIEL  ","ESMERALDA                     ","805  ","     ","         0",8000
@@ -2851,6 +2836,7 @@
 0,38948741,"BENAVIDEZ FACUNDO JESUS  ","543  BIS                      ","3445 ","     ","         0",7631
 0,12309289,"ALDAO CARLOS ANIBAL      ","SECCION RURAL                 ","S/N  ","     ","         0",6465
 0,16137005,"MARTINEZ NELIDA ERMELINDA","MARIA LUCILA                  ","S/N  ","     ","         0",6465
+0,33661052,"SOTUJO FATIMA MARIANA ORN","LAPRIDA                       ","1010 ","     ","         0",7160
 0,36110940,"ACACIO MAURO ALEJANDRO   ","C.582                         ","3070 ","     ","    451408",7631
 0,27854192,"ROSSI NATALIA JIMENA     ","INDEP DEL PERU                ","132  ","     ","    479515",6450
 0,37862720,"TREVISI DAIANA BELEN     ","STEGMANN Y BELGRANO           "," S/N ","     ","         0",7530
@@ -3640,6 +3626,7 @@
 0, 5110506,"JOSE NILDA ISABEL        ","GUEMES                        ","1254 ","     ","         0",7414
 0,38860730,"BUSTAMANTE MACARENA      ","SANTAMARINA                   ","1951 ","     ","         0",7414
 0,40656832,"ROMAN JOSEFINA           ","VILLANUEVA                    ","310  ","     ","         0",8109
+0,34099392,"BALDO ANGELA CRISTINA    ","HARAS EL CANDIL               ","350  ","     ","   4875342",7600
 0,24076584,"NAVARRO JULIO ARIEL      ","TALCAHUANO                    ","2680 ","     ","   4813224",7600
 0,25451220,"IBARRA FLAVIA LORENA     ","QUNTA 91 CASA 48              ","S/N  ","     ","         0",7303
 0,40022088,"AGUIRRE ALDANA GISELLE   ","LUGONES                       ","155  ","     ","         0",6555
@@ -3795,6 +3782,7 @@
 1,94584605,"OYARZO ALTAMIRANO YESSICA","LOS EUCALIPTOS                ","227  ","     ","         0",7600
 0,16180898,"RIOS NESTOR ALBERTO      ","MORENO                        ","416  ","     ","         0",7150
 0,36217252,"PARASCHUK ESTEFANIA G.   ","AZOPARDO                      ","7126 ","CASA ","         0",7600
+0,36821685,"BUEZAS KAREN AYELEN      ","LAS CAMELIAS                  ","120  ","     ","         0",7609
 0,22368307,"MORRA DANIEL FERNANDO    ","MALVINAS                      ","3834 ","     ","   5002612",7600
 0,13736473,"LARRAYA HECTOR ANTONIO   ","GASCON                        ","1161 ","     ","         0",7600
 0,22067609,"BARRIOLA MOIRA           ","GASCON                        ","1161 ","     ","   4516108",7600
@@ -4062,7 +4050,6 @@
 0,39118076,"LAGUNA BRAIAN NICOLAS    ","MARMOL                        ","882  ","     ","         0",7109
 0,37262536,"PUTERO NORMA ELISA       ","MARMOL                        ","882  ","     ","         0",7109
 0, 4997204,"RABITTI ZULEMA ELENA     ","25 DE MAYO                    ","1708 ","     ","         0",7214
-0,33841500,"ALEGRE GABRIELA ALEJANDRA","JORGE FELLAY                  ","55   ","     ","         0",6465
 0,38291275,"ZAMORA AILIN SHARON N.   ","ENTRE RIOS                    ","890  ","     ","         0",7500
 0,27678834,"GONZALEZ JORGE ANTONIO   ","CALLE 1                       ","6583 ","     ","         0",7600
 0,93291446,"LIZAMA MONSALVE CARMEN G.","GUILLERMO TORRES              ","4091 ","     ","         0",8000
@@ -4161,7 +4148,6 @@
 0,35043090,"SOTO VANESA ESTEFANIA    ","ELCANO                        ","10306","     ","   4651337",7600
 0,27139189,"BUSTAMANTE LORENA MARICEL","CORONEL SUAREZ                ","765  ","     ","         0",7400
 0,23750832,"SALINA MARIA CELESTE     ","25 DE MAYO                    ","8256 ","     ","         0",7600
-0,24529040,"FIGUEROA BERNARDA SUSANA ","BELGRANO                      ","1443 ","     ","         0",7150
 0,37980463,"DIAZ JOSEFA JUDITH       ","MUÑOZ                         ","234  ","     ","         0",7020
 0,40869132,"LINDNER PRISCILA ANA     ","                              ","     ","     ","         0",   0
 0,39483043,"GIMENEZ SEBASTIAN JAVIER ","REMEDIOS DE ESCALADA          ","2236 ","     ","         0",8000
@@ -4233,7 +4219,6 @@
 0,32362375,"JUAREZ CECILIA TERESITA  ","25 DE MAYO                    ","387  ","     ","         0",7203
 0,29642896,"CARBALLO VERONICA ALEJAND","                              ","     ","     ","         0",   0
 0,39516254,"RODRIGUEZ MARCELO OSCAR  ","YRIGOYEN                      ","3372 ","     ","         0",7260
-0,35395911,"CERINA FRANCO            ","RIVADAVIA                     ","439  ","     ","         0",7406
 0,30049260,"GALINDRE MARTA ROSA      ","LA MAREJADA                   ","1628 ","     ","         0",7109
 0,35873490,"AGUDO MARIA FLORENCIA    ","AV.JUAN B JUSTO 7280          ","1    ","     ","         0",8109
 0,94761613,"MELGAREJO NATALIA RAQUEL ","MITRE                         ","1627 ","     ","         0",8109
@@ -4320,7 +4305,6 @@
 0,33324225,"BERDUGO JUAN CARLOS      ","URQUIZA                       ","640  ","1    ","         0",7500
 1,34691944,"GUIMAREY PAULA ANABELLA  ","CASTELLI                      ","132  ","2    ","         0",7109
 0,34135418,"CANULLAN JESICA VANINA   ","CHILE                         ","178  ","     ","    453821",6555
-0,32395699,"MALDONADO CRISTIAN GABRIE","SANCHEZ CRESPO                ","840  ","     ","         0",6465
 0,32917873,"TAYLOR WALTER DANIEL     ","ESTRADA                       ","1325 ","     ","         0",6450
 0,28973076,"GONZALEZ MARIA LUJAN     ","ALVARADO                      ","430  ","     ","         0",6530
 0,35828757,"BESADA EDGARDO EZEQUIEL  ","Bº BUTAZZONI CASA             ","67   ","     ","         0",6530
@@ -4362,8 +4346,6 @@
 0,11422649,"MORENO MARIA HAYDEE      ","GUTIERREZ                     ","449  ","     ","         0",7111
 0,11652026,"EDELMAN ESTELA FELISA    ","VIAMONTE                      ","2925 ","     ","         0",8000
 0,26107688,"JULIANO JORGE DANIEL     ","LAMADRID                      ","1015 ","PB 4 ","         0",7500
-0,16483680,"LEIVA MONICA SUSANA      ","T. GARCIA                     ","24   ","     ","         0",8156
-0,11364597,"YACOB EDUARDO JOSE       ","T. GARCIA                     ","24   ","     ","         0",8156
 0,41104013,"BUSTOS BRENDA ROCIO      ","CALLE 17 BIS Y 102            ","C 820","     ","         0",7400
 0,38924912,"SCHMIDT CRISTIAN FABIAN  ","JULIA A.ROCA                  ","1311 ","     ","         0",7406
 0,26832858,"CARCELES ANDREA SILVINA  ","LAS HERAS                     ","202  ","     ","         0",7406
@@ -4415,7 +4397,6 @@
 0,23709562,"ORTEGA MIRTA BEATRIZ     ","2DA BIGGIO  CASA 25           ","1158 ","     ","         0",8000
 0,43454842,"COS LUCIANA VERONICA     ","CORONEL SUAREZ                ","8791 ","     ","         0",7400
 0,28607835,"DIAZ OSVALDO DANIEL      ","10                            ","3585 ","     ","         0",7400
-0,34457595,"VILLALBA LEONARDO FABIAN ","SARMIENTO                     ","1554 ","     ","         0",7414
 0,42959606,"SOSA LUIS KEVIN          ","J.MARTI                       ","29   ","     ","         0",7020
 0,34291223,"ROLDAN YISELE MILAGROS   ","ALBERDI                       ","4270 ","     ","         0",7400
 0,38956752,"GUILLE PAMELA ESTEFANIA  ","AYACUCHO                      ","4018 ","     ","         0",7400
@@ -4440,8 +4421,6 @@
 0,41069079,"CELIS EDUARDO DANIEL     ","ESPORA                        ","411  ","     ","         0",6450
 0,26960971,"CAFFARONI MARIO FRANCO   ","ANDRADE                       ","163  ","     ","    474123",6450
 0, 4085845,"BORCI ELSA ANATILDE      ","SAENZ PEÑA                    ","698  ","     ","    444101",7100
-0,32717259,"SCHNEIDER LUCIA SOLEDAD  ","JUAN PABLO II(COL.1)          ","2459 ","     ","         0",7540
-0,32764582,"WAINMAIER PABLO FEDERICO ","JUAN PABLO II(COL.1)          ","2459 ","     ","         0",7540
 0,32103121,"MORALES IVANA ANAHI      ","SARGENTO CABRAL               ","32   ","     ","    482107",7513
 0,25798612,"DEMARE LUIS ALBERTO      ","DOUMIC                        ","336  ","     ","         0",7100
 0,40669020,"ANDRADA ROCIO AYELEN     ","SUAREZ                        ","1397 ","     ","         0",7530
@@ -4502,7 +4481,6 @@
 0,31441831,"ORIANI DAIANA EDITH      ","GUTIERREZ                     ","2030 ","     ","         0",6450
 0,20320087,"COSTA ANDREA MIRNA       ","MENDOZA                       ","493  ","     ","         0",8109
 0,38918991,"GOZO MICAELA MAGALI      ","PACHECO                       ","39 BI","     ","         0",6400
-0,39877899,"HERNANDEZ GUBER YACO     ","GRAL JOSE ARTIGAS             ","1062 ","     ","   4561500",8109
 0,34432028,"VILLALBA GUILLERMINA G.  ","JURAMENTO                     ","658  ","     ","         0",7540
 0,42398918,"RODRIGUEZ PRISCILA MAIRA ","RIVADAVIA                     ","1784 ","     ","         0",7260
 0,37182003,"COBATTI LAURA MARIELA    ","9 DE JULIO                    ","1447 ","     ","         0",7414
@@ -4518,96 +4496,19 @@
 0,27033886,"DALLOCHIO MARISOL        ","LA RIOJA                      ","2344 ","     ","         0",6500
 0,14499068,"TARGISE MARISA INES      ","12 DE OCTUBRE                 ","297  ","     ","    431248",7500
 0,14174195,"ZWAAL MARIO DANIEL       ","12 DE OCTUBRE                 ","297  ","     ","    431248",7500
-0,14924944,"IBARRA ISABEL NELIDA     ","57                            ","2860 ","     ","         0",7530
-0,40137790,"VAN RIJN CATULLO KAREN NO","FROCHAM                       ","3555 ","     ","         0",7260
-0,39963686,"GOROSITO ELIANA MELINA   ","FROCHAM                       ","3769 ","     ","         0",7260
-0,38589925,"RODRIGUEZ FRANCO DAMIAN  ","JUAN BAUTISTA ALBERD          ","S/N  ","     ","         0",6500
-0,34218052,"ASTRADA ANDREA ALEJANDRA ","CHILE                         ","153  ","     ","         0",6555
-0,14370377,"LOPEZ NELIDA SUSANA      ","CHILE                         ","155  ","     ","         0",6555
-0,39351016,"RAMOS AMPARO MAGALI      ","GUTIERREZ SUR                 ","968  ","     ","         0",6400
-0,29930675,"MATTO ANDREA SOLEDAD     ","ZONA RURAL                    ","S/N  ","     ","    497657",6516
 0,29936547,"KEES MARIANO MARTIN      ","UGARTE                        ","526  ","     ","         0",6400
-0,95028315,"RUMICHE VALENCIA PATRICIA","BOULOGNE SUR MER              ","1325 ","     ","         0",7540
-0,13269201,"AVILA PEDRO EUGENIO      ","ALVEAR                        ","554  ","6    ","         0",7530
 0,45191116,"FURGEAU BRISA AYLEN      ","C. 34                         ","2719 ","     ","         0",7630
-0,25153322,"GASTAMINZA MARIA DEL CARM","MATHEU                        ","680  ","     ","         0",6503
-0,40425324,"MELGAREJO MADELAINE MAILE","ALTE. BROWN                   ","866  ","     ","         0",6500
 0,24645856,"DIUBERTI JORGE RAFAEL    ","RIO URUGUAY                   ","264  ","     ","         0",7109
-0,36772768,"VADILLO ALEXIS EZEQUIEL  ","FRONDIZI                      ","977  ","     ","         0",6500
-0,16336909,"SCHIEL NANCY LILIANA     ","LAS MARGARITAS                ","677  ","     ","         0",7513
-0,12940418,"SOTO ADOLFO IRUDAN       ","LAS MARGARITAS                ","677  ","     ","         0",7513
 0,23349200,"MADRID CRISTIAN MARIANO  ","FACUNDO QUIROGA               ","826  ","     ","         0",7406
 0,11582803,"PEREZ CELIA BEATRIZ      ","UGARTE                        ","340  ","     ","    414038",6400
-0,38438509,"CHAVES JENIFER JEANETTE  ","OYUELA                        ","1112 ","     ","         0",6450
-0,24186532,"HERRERA CARLOS GABRIEL   ","CHARCAS                       ","458  ","     ","         0",7513
-0,39787995,"LIBRANDI DAIANA CECILIA  ","SOLER                         ","169  ","     ","         0",6530
-0,29095819,"GONZALEZ CARLOS JAVIER   ","MARINERO ARCE                 ","976  ","     ","         0",6500
-0,28710076,"BOGARIN CECILIA CRISTINA ","TEODOSIO ALANIZ               ","70   ","     ","    425517",7540
-0,12002708,"MONTES DE OCA ALFREDO O. ","JUAN JOSE PASO                ","2633 ","     ","         0",7540
-0,34391227,"MALERBA NADIA BELEN      ","OLMOS                         ","274  ","     ","         0",7109
-0,22616248,"WEIMANN MARIO ADAN       ","10 DE OCTUBRE                 ","344  ","     ","         0",7540
-0,23795141,"NUÑEZ MARIA FERNANDA     ","BELGRANO                      ","2090 ","     ","    427286",7540
-0,11831943,"PALLERO MARTA LILIANA    ","MONFERRAND                    ","364  ","     ","         0",6400
-0,25270211,"MEDINA MARIA VIRGINIA    ","PAYSANDU                      ","785  ","     ","         0",7100
 0,27830896,"SUESCUN JESUANA          ","FALUCHO                       ","52   ","     ","         0",7203
-0,33065801,"COTTI JOSE LUIS          ","LAVALLE                       ","843  ","     ","         0",7414
-0,35304677,"FERRIOL YANINA SOLEDAD   ","ZONA RURAL                    ","S/N  ","     ","         0",7406
-0,17300021,"SIMONETTI SANDRA MARINA  ","ALMAFUERTE NORTE              ","1057 ","     ","         0",6400
 0,30532952,"ERREGUERENA SONIA LAURA  ","BARBERIA                      ","1274 ","     ","    442303",7635
-0,41986621,"FIGUEROA ALAN FABIAN     ","SARMIENTO                     ","107  ","     ","         0",6500
 0,25002292,"CORIA DELICIA ELIZABETH  ","JUAN B.PORTO                  ","1226 ","     ","         0",7414
 0,22026094,"CUELLO JORGE LUIS        ","JUAN B.PORTO                  ","1226 ","     ","         0",7414
-0,14971720,"IERVOLINO FRANCISCO D.   ","LOS SAUCES                    ","14   ","     ","         0",7303
-0,37683074,"LEGUIZAMON YOHANA SOLANGE","ANTARTIDA ARGENTINA           ","533  ","     ","         0",7414
-0,32131647,"GOROSITO LEANDRO GASTON  ","MORENO                        ","421  ","     ","         0",7414
-0,34254246,"MERGEL NATALIA CELESTE   ","MORENO                        ","421  ","     ","         0",7414
-0,12663737,"CREDEDIO RAUL DOMINGO    ","EL GAUCHO                     ","1176 ","     ","    406715",8150
-0,34751284,"EASARRET MIRTA ISABEL    ","CALLE 100                     ","1173 ","     ","         0",7300
-0,10612129,"GONZALEZ NORMA RAQUEL    ","MESURA                        ","835  ","     ","         0",7300
-0,22534174,"COVINO MARIA DE LOS ANGEL","ALEM                          ","3087 ","     ","         0",7260
-0,23547984,"PEÑALVA CLARA MARINA     ","SAN MARTIN                    ","521  ","     ","         0",7300
-0,45293754,"ASTRADA AZUL PRISCILA    ","                              ","     ","     ","         0",   0
-0,24620498,"BARROS MARCELA BEATRIZ   ","RIVADAVIA                     ","1164 ","     ","         0",6555
-0,26498534,"PEDALINO MARIA ISABEL    ","                              ","     ","     ","         0",   0
-0,28562863,"OSUNA JORGE EZEQUIEL     ","MITRE                         ","202  ","     ","         0",6503
-0,20203024,"LERTORA TERESA GABRIELA  ","DIAG ESTRADA                  ","295  ","p3 n5","         0",7111
-0,24351149,"OYANTO JOAQUINA MARICEL  ","OLAVARRIA                     ","770  ","     ","         0",7300
-0,43114773,"CABRERA MARIA DEL LUJAN  ","COMERCIO                      ","00322","b    ","         0",7300
-0,30130020,"VEINTICINCO LORENA PAOLA ","JUAN JOSE PASO                ","42   ","     ","         0",6474
-0,42963444,"SABATELLA JEREMIAS JESUS ","SARMIENTO                     ","2896 ","     ","         0",7260
-0,28864064,"LASSALLE MILAGROS        ","SALTA                         ","1357 ","     ","         0",6500
-0,29160451,"FERREYRA TERESA SOLEDAD  ","CASTELLAR                     ","761  ","DTO A","         0",7300
-0,29162592,"SPINOLO ALEJANDRO JAVIER ","NUEVA ESPERANZA               ","785  ","     ","         0",6424
-0,27204706,"BENSO WALTER MATIAS      ","BOLIVIA                       ","149  ","     ","         0",6530
-0,41857732,"CORTEZ TIZIANA GISELA    ","                              ","     ","     ","         0",   0
-0,12077408,"CORTEZ OMAR MARIO        ","AVELLANEDA                    ","2865 ","     ","         0",7530
-0,14582957,"SAVINEL HUGO ABEL        ","ROBBIO                        ","1231 ","     ","         0",6500
-0,44321943,"TOLOSA CELINA            ","                              ","     ","     ","         0",   0
-0,45569938,"AGUILERA JOSE LUIS       ","ALISAL                        ","2725 ","     ","         0",7260
-0,39110391,"RODRIGUEZ ANTONIO MARIANO","JUANA ARANA                   ","180  ","     ","         0",6555
-0, 5387579,"RAMOS ROSA HILDA         ","L.N. ALEM                     ","3617 ","     ","    433622",7260
-0,38925555,"TALAMONTI DANIEL ALEJANDR","CALLE 98                      ","1065 ","     ","         0",7300
-0,38858813,"GORLERO MARCOS           ","TABORDA                       ","2246 ","     ","         0",7260
-0,44046618,"INDA MARCOS IGNACIO      ","ESPAÑA                        ","1476 ","7300 ","         0",7300
-0,96126228,"ZIEZIULEWICZ GALARZA MARI","LEBENSOHN                     ","1631 ","     ","         0",7109
-0,32555916,"SELAYA ESTEFANIA BELEN   ","1 DE MAYO                     ","225  ","     ","    430523",7300
-0,95552802,"ALLENDE ORTIZ ARNALDO AND","TOLEDO                        ","3238 ","     ","         0",7260
-0,43247655,"CORONEL BARBOSA VALENTINA","                              ","     ","     ","         0",   0
-0,42618961,"CACERES BRAIAN NICOLAS   ","JUJUY                         ","121  ","     ","         0",7020
-0,42907306,"DESNOS AGUSTINA          ","ANDRADE                       ","1340 ","     ","         0",6450
-0,22906768,"TEBES MARIO FABIAN       ","BOUSSON                       ","943  ","     ","         0",7150
-0,22428216,"PERALTA ANA MARIA        ","25 DE MAYO                    ","1429 ","     ","         0",8091
 0,43512111,"LAMAISON VALENTINA       ","                              ","     ","     ","         0",   0
 0,27082997,"GONZALEZ MARIA VERONICA  ","CLELIA TARTARA                ","160  ","     ","         0",6424
 0,40978526,"FALCONE GUSTAVO RAMIRO   ","BARRIO MUNICIPAL CASA 16      ","S/N  ","     ","         0",6500
-0,34589841,"CIRONE GUILLERMO EDUARDO ","IBARBIA                       ","1938 ","     ","         0",7260
-0,39764816,"CARRICART TAMARA         ","SAFFORES                      ","1170 ","     ","         0",7414
-0,36578070,"SAN ROMAN MARCELO DANIEL ","LAVALLE                       ","1509 ","     ","         0",7414
-0,40866779,"LAHORCA RICARDO GUSTAVO  ","FALUCHO                       ","330  ","     ","         0",7020
-0,31789235,"VADILLO LEANDRA GABRIELA ","FRONDIZI                      ","977  ","     ","         0",6500
 0,11692818,"CALEQUI CARLOS ALBERTO   ","CANEVA                        ","0016 ","     ","         0",7300
-0,20316771,"IBARRA MARTA MABEL       ","ITALIA                        ","881  ","     ","    409976",8150
-0,18426117,"SILVA MIRTA GLADIS       ","AV MATHEU                     ","72   ","     ","         0",7203
 0,37355849,"RASTELLI PATRICIA NOEMI  ","ROCA                          ","727  ","4    ","         0",8109
 0,28044189,"CABRERA SERGIO ALEJANDRO ","ROCA 727 DPTO                 ","4    ","     ","         0",8109
 0,23874247,"MONTES MARIELA VANESA    ","VIGNAU                        ","1290 ","C.40 ","         0",6400
@@ -4620,16 +4521,7 @@
 0,38428007,"GIMENEZ EVELIN MARIEL    ","PINELA                        ","150  ","     ","         0",7635
 0,18539356,"GOROSITO MARIA ESTHER    ","J.V.GONZALEZ                  ","2446 ","     ","         0",7260
 0,36071524,"SILVESTRE PAMELA MERCEDES","AVELLANEDA                    ","642  ","     ","         0",6503
-0,17055667,"IRURTIA EDUARDO DANIEL   ","B PLAN FED 2 CASA             ","25   ","     ","         0",6530
 0,30665260,"KITLAIN RAMON OMAR       ","                              ","     ","     ","         0",   0
 0,33537403,"KITLAIN CARLA LEONELA E. ","MARIANO MORENO                ","274  ","     ","         0",7020
-0,26514315,"BONFIRRARO NELIDA M.     ","RECONQUISTA                   ","1489 ","     ","         0",6555
-0,39110399,"BONFIRRARO DAIANA AILEN  ","5 DE JULIO                    ","360  ","     ","         0",6555
-0,23834779,"LEDESMA CARLOS GABRIEL   ","PUEYRREDON                    ","480  ","     ","    454418",7150
 0,36488850,"CORONEL ALEJANDRO ANDRES ","JUJUY                         ","260  ","     ","         0",7513
-0,35873527,"VERA LESLIE NOEMI        ","RIVADAVIA                     ","431  ","     ","         0",7540
 0,33675529,"URBAN YESICA ALEJANDRA   ","IRIGOYEN                      ","5750 ","INT  ","    422551",7400
-0,24316676,"FLORES GLADYS NIRIA      ","SANTIAGO DE ESTERO            ","720  ","     ","         0",8109
-0,27291875,"ZAPATERO BAUTISTA OMAR   ","JURAMENTO                     ","658  ","     ","         0",7540
-0,42027079,"BAZAN LEANDRO            ","ZAMORANO                      ","2470 ","     ","         0",7260
-0,27131306,"PIAZZA VALERIA ANDREA    ","PUAN                          ","1190 ","     ","         0",7300
