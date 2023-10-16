@@ -8,16 +8,16 @@ import tkinter as tk
 from tkinter import messagebox
 from tqdm import tqdm
 
-
-locale.setlocale(locale.LC_TIME, 'es_ES.UTF-8')
 # Leer el archivo de texto con los datos
 
-print("leyendo Archivos...")
+print("Leyendo archivos...")
 with open('Pases.txt', 'r') as archivo:
     # Leer todas las líneas del archivo y almacenarlas en una lista
     lineas = archivo.readlines()
 
-
+# Eliminar los saltos de línea adicionales después de la última línea
+while lineas[-1].strip() == '':
+    lineas.pop()
 
 # Inicializa una lista para almacenar los datos de cada fila
 datos_filas = []
@@ -271,9 +271,10 @@ for line in lines:
 # Crea un DataFrame a partir de las listas de Legajo y DNI
 dfMaerel = pd.DataFrame({'Legajo': legajo, 'DNI': dni})
 
-pbar = tqdm(total= len(grouped))
+total = len(grouped)
+pbar = tqdm(total=total, desc='ORDENANDO...')
 
-for index, row in tqdm(grouped.iterrows(),desc="ORDENANDO...", bar_format="{l_bar}{bar}{r_bar}"):
+for index, row in grouped.iterrows():
     pbar.update(1)
     dni_grouped = row['Dni']
     matching_legajo = dfMaerel[dfMaerel['DNI'] == dni_grouped]
@@ -306,6 +307,13 @@ for index, row in tqdm(grouped.iterrows(),desc="ORDENANDO...", bar_format="{l_ba
                 if not all(part in cel2_intermedio.split('-') for part in cel2_grouped.split('-')):
                     df_intermedio.loc[df_intermedio['Nro Legajo'] == legajo_grouped, 'Cel 2'] = cel2_grouped + '-' + cel2_intermedio
 pbar.close()
+
+for index, row in df_intermedio.iterrows():
+    valores_cel1 = set(str(row['Cel 1']).split('-')) if '-' in str(row['Cel 1']) else {str(row['Cel 1'])}
+    if not pd.isna(row['Cel 2']):  # Verifica si cel2 no está vacío
+        valores_cel2 = set(str(row['Cel 2']).split('-')) if '-' in str(row['Cel 2']) else {str(row['Cel 2'])}
+        valores_cel2_nuevos = valores_cel2 - valores_cel1
+        df_intermedio.at[index, 'Cel 2'] = '-'.join(valores_cel2_nuevos)
 
 fecha_actual = date.today()
 mes_actual = fecha_actual.strftime("%B")
@@ -344,7 +352,7 @@ data = {
     'col28': df_intermedio['Cel 2'],
     'col29': "",
     'col30': "",
-    'col31': datetime.date.today(),
+    'col31': datetime.date.today().strftime('%d/%m/%Y'),
     'col32': "TARJETAS",
     'col33': dfPases['Nro Sucursal'],
     'col34': dfPases['Sucursal'],
